@@ -14,23 +14,6 @@ However, this issue never happened on my laptop.
 
 As what the forum mentor suggested, I attached a 15 miles accident-free driving video here.
 
-#### _Original Speed_
-
-**part 1**
-
-[![Part_1](http://img.youtube.com/vi/qoj3qkUx7GY/0.jpg)](https://youtu.be/qoj3qkUx7GY)
-
-**part 2**
-
-[![Part_2](http://img.youtube.com/vi/A9iHDxT_kKM/0.jpg)](https://youtu.be/A9iHDxT_kKM)
-
-**part 3**
-
-[![Part_3](http://img.youtube.com/vi/2Lasuj0IObE/0.jpg)](https://youtu.be/2Lasuj0IObE) 
-
-#### _4X Speed_
-
-[![4X](http://img.youtube.com/vi/TisMciP1Ios/0.jpg)](https://youtu.be/TisMciP1Ios)
 
 ## Abstract
 
@@ -39,9 +22,7 @@ The task is to implement the source code of a planner that safely navigate the c
 This porject was carried out with the start code provided by _**Udacity**_ which you can check [HERE](https://github.com/udacity/CarND-Path-Planning-Project).
 And the [simulator](https://github.com/udacity/self-driving-car-sim/releases/tag/T3_v1.2) which is used to check your own implementation.
 
-**<sub>click picture for youtube videos</sub>**
-
-[![path_planning_result](http://img.youtube.com/vi/qFxtIqCHM8o/0.jpg)](https://youtu.be/qFxtIqCHM8o)
+![path_planning_result](images/path_planning.gif)
 
 ---
 
