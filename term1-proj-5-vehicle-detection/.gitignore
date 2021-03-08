@@ -1,0 +1,14 @@
+.DS_Store
+.ipynb_checkpoints
+__pyache__
+*.pyc
+*.npy
+videos/*_test.mp4
+videos/*_result.mp4
+challenge_images/
+bk/
+training_output/
+non-vehicles/
+vehicles/
+viz_tm/
+viz_dv/

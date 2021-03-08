@@ -1,0 +1,12 @@
+# silly macOS
+.DS_Store
+
+# build files
+build/
+
+# ide profile
+.idea
+cmake-build-debug/
+
+## Xcode
+.xcode/

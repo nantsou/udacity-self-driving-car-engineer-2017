@@ -1,0 +1,14 @@
+data
+.ipynb_checkpoints
+*.h5
+models
+*.swp
+*.p
+__pycache__
+.DS_Store
+model.bk/
+submit_content/
+checkpoint
+cnn_network
+cnn_network.meta
+.vscode/
